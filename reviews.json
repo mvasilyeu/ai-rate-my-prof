@@ -1,0 +1,131 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Johnson",
+        "subject": "Mathematics",
+        "stars": 5,
+        "review": "Dr. Johnson is an excellent professor who explains concepts clearly and is always willing to help students."
+      },
+      {
+        "professor": "Professor Robert Smith",
+        "subject": "History",
+        "stars": 4,
+        "review": "Professor Smith is very knowledgeable but can be a bit dry in his lectures. However, he’s always available for questions."
+      },
+      {
+        "professor": "Dr. Alice Brown",
+        "subject": "Biology",
+        "stars": 3,
+        "review": "Dr. Brown is okay, but her exams are quite challenging. She does know her subject well."
+      },
+      {
+        "professor": "Professor Michael Lee",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Professor Lee is amazing! His lectures are engaging, and he provides lots of practical examples."
+      },
+      {
+        "professor": "Dr. Sarah Davis",
+        "subject": "Chemistry",
+        "stars": 2,
+        "review": "Dr. Davis is hard to understand, and her grading seems inconsistent. Would recommend self-study."
+      },
+      {
+        "professor": "Professor David Wilson",
+        "subject": "Economics",
+        "stars": 4,
+        "review": "Professor Wilson is good but sometimes goes off on tangents. His assignments are straightforward though."
+      },
+      {
+        "professor": "Dr. Jennifer Martinez",
+        "subject": "Physics",
+        "stars": 5,
+        "review": "Dr. Martinez is a fantastic professor! She makes complex topics easy to understand."
+      },
+      {
+        "professor": "Professor Richard Kim",
+        "subject": "Philosophy",
+        "stars": 3,
+        "review": "Professor Kim is knowledgeable, but his lectures can be monotonous. Participation is key in his class."
+      },
+      {
+        "professor": "Dr. Elizabeth Clark",
+        "subject": "English Literature",
+        "stars": 4,
+        "review": "Dr. Clark is passionate about the subject, and her feedback on papers is very helpful."
+      },
+      {
+        "professor": "Professor Thomas Robinson",
+        "subject": "Psychology",
+        "stars": 5,
+        "review": "Professor Robinson is fantastic! His classes are engaging, and he makes sure everyone understands the material."
+      },
+      {
+        "professor": "Dr. Karen Lewis",
+        "subject": "Sociology",
+        "stars": 2,
+        "review": "Dr. Lewis is difficult to approach and her lectures are very dense. Not my favorite class."
+      },
+      {
+        "professor": "Professor George Young",
+        "subject": "Political Science",
+        "stars": 3,
+        "review": "Professor Young is very knowledgeable but his lectures are a bit disorganized. Study the textbook closely."
+      },
+      {
+        "professor": "Dr. Patricia White",
+        "subject": "Anthropology",
+        "stars": 5,
+        "review": "Dr. White is amazing! Her passion for anthropology is infectious, and her classes are always interesting."
+      },
+      {
+        "professor": "Professor Charles Harris",
+        "subject": "Art History",
+        "stars": 4,
+        "review": "Professor Harris is a great teacher who knows a lot about art. His lectures are visually engaging."
+      },
+      {
+        "professor": "Dr. Linda Perez",
+        "subject": "Statistics",
+        "stars": 3,
+        "review": "Dr. Perez is okay but her classes can be a bit too fast-paced. You need to keep up with the material."
+      },
+      {
+        "professor": "Professor Brian Green",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "review": "Professor Green is fantastic! He's very passionate about the environment and makes the class very interactive."
+      },
+      {
+        "professor": "Dr. Nancy Baker",
+        "subject": "Business Administration",
+        "stars": 4,
+        "review": "Dr. Baker is very knowledgeable and provides real-world examples in her lectures. Sometimes assignments are a bit unclear."
+      },
+      {
+        "professor": "Professor Steven Adams",
+        "subject": "Engineering",
+        "stars": 3,
+        "review": "Professor Adams knows his stuff but can be a bit hard to follow. His exams are tough."
+      },
+      {
+        "professor": "Dr. Rebecca Hall",
+        "subject": "Law",
+        "stars": 4,
+        "review": "Dr. Hall is a great professor who provides lots of insights into legal cases. Her classes require a lot of reading."
+      },
+      {
+        "professor": "Professor James Walker",
+        "subject": "Music",
+        "stars": 5,
+        "review": "Professor Walker is awesome! His passion for music shines through in every lecture."
+      },
+      {
+        "professor": "Dr. Rebecca Hall",
+        "subject": "Law",
+        "stars": 4,
+        "review": "Dr. Hall is a great professor who provides lots of insights into legal cases. Her classes require a lot of reading."
+      }
+    ]
+  }
+  
